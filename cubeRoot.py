@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Sun Mar  3 22:26:50 2019
-
-@author: mitikirim
-"""
-
 
 def cubeRoot(n):
     x = 1
